@@ -6,6 +6,8 @@ A classic Connect Four game implementation with a graphical user interface built
 
 This is a two-player Connect Four game where players take turns dropping colored pieces into a 6x7 grid. The objective is to be the first player to connect four of your pieces vertically, horizontally, or diagonally.
 
+Note: This was my first larger Python project, created while learning to program on my first ever programming course. It represents my introduction to object-oriented programming, GUI development with Tkinter, and game logic implementation.
+
 ## Features
 
 - **Customizable Player Colors**: Each player can choose their own piece color using a color picker
